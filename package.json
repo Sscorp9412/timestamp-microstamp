@@ -1,0 +1,26 @@
+{
+  "name": "timestamp-microstamp",
+  "version": "1.0.0",
+  "description": "It is a freeCodeCamp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sscorp9412/timestamp-microstamp.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nischay Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sscorp9412/timestamp-microstamp/issues"
+  },
+  "homepage": "https://github.com/Sscorp9412/timestamp-microstamp#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
